@@ -1,12 +1,13 @@
-# Hi, I m Neal💻☁️
+# Hi, I m xxx💻☁️
 
 ### My Resume
-❤️  [https://neal.wang/resume/) ❤️
 
+❤️ [xxx) ❤️
 
 ![](https://img.shields.io/badge/python-3.10-orange?style=flat&logo=python&logoColor=orange) ![Profile Views](https://komarev.com/ghpvc/?username=thesharing)
 
 ### Dev Web
+
 > Front-end
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,bootstrap,jquery&theme=light)](https://skillicons.dev)
@@ -21,7 +22,7 @@
 
 ### Doc & IDE
 
-[![My Skills](https://skillicons.dev/icons?i=md,vscode,bash&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=md,vscode,bash&theme=light)](https://skillicons.dev)
 
 ### API
 
