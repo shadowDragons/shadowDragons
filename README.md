@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Junexus</h1>
 <h3 align="center">A passionate full-stack developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadowdragons&label=Profile%20views&color=0e75b6&style=flat" alt="hadowdragons" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowdragons&label=Profile%20views&color=0e75b6&style=flat" alt="shadowdragons" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadowdragons" alt="hadowdragons" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowdragons" alt="shadowdragons" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shadow06368306" target="blank"><img src="https://img.shields.io/twitter/follow/shadow06368306?logo=twitter&style=for-the-badge" alt="shadow06368306" /></a> </p>
 
@@ -32,8 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/junexus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="junexus" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadowdragons&show_icons=true&locale=en&layout=compact" alt="hadowdragons" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowdragons&show_icons=true&locale=en&layout=compact" alt="shadowdragons" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadowdragons&show_icons=true&locale=en" alt="hadowdragons" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowdragons&show_icons=true&locale=en" alt="shadowdragons" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadowdragons&" alt="hadowdragons" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowdragons&" alt="shadowdragons" /></p>
