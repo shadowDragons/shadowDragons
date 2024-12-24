@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shadow06368306" target="blank"><img src="https://img.shields.io/twitter/follow/shadow06368306?logo=twitter&style=for-the-badge" alt="shadow06368306" /></a> </p>
 
-- 🔭 I’m currently working on [Byte Portfolio](https://github.com/shadowDragons/portfolio)
+- 🔭 I’m currently working on [Byte Portfolio](https://byte.ink)
 
-- 🔭 I’m currently working on [Byte Online Text2image](https://github.com/shadowDragons/text2image)
+- 🔭 I’m currently working on [Byte Text2image generator](https://text-image.tool.vin)
+
+- 🔭 I’m currently working on [Byte image generator](https://image-generator.tool.vin)
 
 - 🔭 I’m currently working on [Byte Online Tools Site](https://online.tool.vin/)
 
