@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://byte.ink](https://byte.ink)
 
-- 📝 I regularly write articles on [https://blog.byte.ink](https://blog.byte.ink)
-
 - 💬 Ask me about **any technical issues**
 
 - 📫 How to reach me **shadowdragon4399@gmail.com**
