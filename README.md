@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Byte Portfolio](https://byte.ink)
 
-- 🔭 I’m currently working on [Byte Text2image generator](https://text-image.tool.vin)
+- 🔭 I’m currently working on [Byte Text Image Generator](https://text-image.tool.vin)
 
-- 🔭 I’m currently working on [Byte image generator](https://image-generator.tool.vin)
+- 🔭 I’m currently working on [Byte Image Generator](https://image-generator.tool.vin)
 
 - 🔭 I’m currently working on [Byte Online Tools Site](https://online.tool.vin/)
 
