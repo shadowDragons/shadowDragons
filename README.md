@@ -7,15 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/shadow06368306" target="blank"><img src="https://img.shields.io/twitter/follow/shadow06368306?logo=twitter&style=for-the-badge" alt="shadow06368306" /></a> </p>
 
-- 🔭 I’m currently working on [Byte Portfolio](https://byte.ink)
+- 🤖 [Asst AI](https://asstai.app) - Make Every AI Generation Precise and Efficient
 
-- 🔭 I’m currently working on [Byte Text Image Generator](https://text-image.tool.vin)
+- 🎨 [Byte Portfolio](https://byte.ink) - A portfolio website for developers
 
-- 🔭 I’m currently working on [Byte Image Generator](https://image-generator.tool.vin)
+- 🖼️ [Byte Text Image Generator](https://text-image.tool.vin) - A tool to generate images from text
 
-- 🔭 I’m currently working on [Byte Online Tools Site](https://online.tool.vin/)
+- 🎭 [Byte Image Generator](https://image-generator.tool.vin) - A tool to generate images from text
 
-- 🔭 I’m currently working on [Byte Tool Directory](https://tool.directory.cab/)
+- 🛠️ [Byte Online Tools Site](https://online.tool.vin/) - A site for online tools
+
+- 📚 [Byte Tool Directory](https://tool.directory.cab/) - A directory of tools
 
 - 👨‍💻 All of my projects are available at [https://byte.ink](https://byte.ink)
 
