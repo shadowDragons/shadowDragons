@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/shadow06368306" target="blank"><img src="https://img.shields.io/twitter/follow/shadow06368306?logo=twitter&style=for-the-badge" alt="shadow06368306" /></a> </p>
 
+- 🔍 [Github Seek](https://githubseek.xyz) - One-Click Search, Discover GitHub Stars
+
 - 🤖 [Asst AI](https://asstai.app) - Make Every AI Generation Precise and Efficient
 
 - 🎨 [Byte Portfolio](https://byte.ink) - A portfolio website for developers
