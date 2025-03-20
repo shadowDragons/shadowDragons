@@ -13,13 +13,7 @@
 
 - 🎨 [Byte Portfolio](https://byte.ink) - A portfolio website for developers
 
-- 😄 [Spongebob Meme Generator](https://spongebob.meme.vin) - A tool to generate Spongebob memes
-
 - 🖼️ [Byte Text Image Generator](https://text-image.tool.vin) - A tool to generate images from text
-
-- 🎭 [Byte Image Generator](https://image-generator.tool.vin) - A tool to generate images from text
-
-- 🛠️ [Byte Online Tools Site](https://online.tool.vin/) - A site for online tools
 
 - 📚 [Byte Tool Directory](https://tool.directory.cab/) - A directory of tools
 
