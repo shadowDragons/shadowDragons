@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowdragons" alt="shadowdragons" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shadow06368306" target="blank"><img src="https://img.shields.io/twitter/follow/shadow06368306?logo=twitter&style=for-the-badge" alt="shadow06368306" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Junexus_indie" target="blank"><img src="https://img.shields.io/twitter/follow/Junexus_indie?logo=twitter&style=for-the-badge" alt="Junexus_indie" /></a> </p>
 
 - 🔍 [Github Seek](https://githubseek.xyz) - One-Click Search, Discover GitHub Stars
 
