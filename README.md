@@ -9,8 +9,6 @@
 
 - 🔍 [Github Seek](https://githubseek.xyz) - One-Click Search, Discover GitHub Stars
 
-- 🤖 [Asst AI](https://asstai.app) - Make Every AI Generation Precise and Efficient
-
 - 🎨 [Byte Portfolio](https://sphrag.com) - A portfolio website for developers
 
 - 🖼️ [Byte Text Image Generator](https://text-image.tool.vin) - A tool to generate images from text
