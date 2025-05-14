@@ -9,11 +9,11 @@
 
 - 🔍 [Github Seek](https://githubseek.xyz) - One-Click Search, Discover GitHub Stars
 
-- 🎨 [Byte Portfolio](https://sphrag.com) - A portfolio website for developers
+- 🎨 [Portfolio](https://sphrag.com) - A portfolio website for developers
 
-- 🖼️ [Byte Text Image Generator](https://text-image.tool.vin) - A tool to generate images from text
+- 🖼️ [Text Image Generator](https://text-image.tool.vin) - A tool to generate images from text
 
-- 📚 [Byte Tool Directory](https://tool.directory.cab/) - A directory of tools
+- 📚 [Tool Directory](https://tool.directory.cab/) - A directory of tools
 
 - 👨‍💻 All of my projects are available at [https://sphrag.com](https://sphrag.com)
 
