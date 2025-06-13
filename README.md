@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/Junexus_indie" target="blank"><img src="https://img.shields.io/twitter/follow/Junexus_indie?logo=twitter&style=for-the-badge" alt="Junexus_indie" /></a> </p>
 
+- 📸 [oneshotai](https://oneshotai.tool.vin) - AI-powered photo analysis tool, instant answers with one shot
+
 - 🧩 [PromptPal](https://promptpal.tool.vin) - Google Chrome Extension for Managing Your Prompts
 
 - 🔍 [Github Seek](https://githubseek.xyz) - One-Click Search, Discover GitHub Stars
