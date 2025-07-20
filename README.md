@@ -11,6 +11,8 @@
 
 - 📸 [oneshotai](https://oneshotai.tool.vin) - AI-powered photo analysis tool, instant answers with one shot
 
+- 🎨 [Rapidle](https://github.com/shadowDragons/rapidle) - A fast and efficient AI image editing tool, built with Next.js 14 and TypeScript.
+
 - 🧩 [PromptPal](https://promptpal.tool.vin) - Google Chrome Extension for Managing Your Prompts
 
 - 🔍 [Github Seek](https://githubseek.xyz) - One-Click Search, Discover GitHub Stars
