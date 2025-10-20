@@ -13,17 +13,13 @@
 
 - 🎨 [Rapidle](https://github.com/shadowDragons/rapidle) - A fast and efficient AI image editing tool, built with Next.js 14 and TypeScript.
 
-- 🔦 [NextIdea](hhttps://idea.tool.vin) - Discover your next independent development project idea.
+- 🔦 [NextIdea](https://idea.tool.vin) - Discover your next independent development project idea.
 
 - 🧩 [PromptPal](https://promptpal.tool.vin) - Google Chrome Extension for Managing Your Prompts
 
 - 🔍 [Github Seek](https://githubseek.xyz) - One-Click Search, Discover GitHub Stars
 
 - 🎨 [Portfolio](https://sphrag.com) - A portfolio website for developers
-
-- 🖼️ [Text Image Generator](https://text-image.tool.vin) - A tool to generate images from text
-
-- 📚 [Tool Directory](https://tool.directory.cab/) - A directory of tools
 
 - 👨‍💻 All of my projects are available at [https://sphrag.com](https://sphrag.com)
 
