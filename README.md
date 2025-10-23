@@ -19,8 +19,6 @@
 
 - 🔍 [Github Seek](https://githubseek.xyz) - One-Click Search, Discover GitHub Stars
 
-- 🎨 [Portfolio](https://sphrag.com) - A portfolio website for developers
-
 - 👨‍💻 All of my projects are available at [https://sphrag.com](https://sphrag.com)
 
 - 💬 Ask me about **any technical issues**
