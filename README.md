@@ -19,6 +19,8 @@
 
 - 🔍 [Github Seek](https://githubseek.xyz) - One-Click Search, Discover GitHub Stars
 
+- 🎓 [ShipSaaS Course](https://course.shipsaas.xyz) - ShipSaaS Online Course Platform
+
 - 👨‍💻 All of my projects are available at [https://sphrag.com](https://sphrag.com)
 
 - 💬 Ask me about **any technical issues**
