@@ -11,7 +11,7 @@
 
 - 📸 [oneshotai](https://oneshotai.tool.vin) - AI-powered photo analysis tool, instant answers with one shot
 
-- 🎨 [Rapidle](https://github.com/shadowDragons/rapidle) - A fast and efficient AI image editing tool, built with Next.js 14 and TypeScript.
+- 🎨 [Rapidle](https://github.com/shadowDragons/rapidle) - 一个简约的桌面效率工具，支持记忆片段、快速访问链接、第三方 API 请求和快速启动系统应用。
 
 - 🔦 [NextIdea](https://idea.tool.vin) - Discover your next independent development project idea.
 
