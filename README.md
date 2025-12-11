@@ -13,7 +13,7 @@
 
 - 🎨 [Rapidle](https://github.com/shadowDragons/rapidle) - 一个简约的桌面效率工具，支持记忆片段、快速访问链接、第三方 API 请求和快速启动系统应用。
 
-- 🔦 [NextIdea](https://idea.tool.vin) - Discover your next independent development project idea.
+- 🔦 [NextIdea](https://idea.sphrag.com) - Discover your next independent development project idea.
 
 - 🧩 [PromptPal](https://promptpal.tool.vin) - Google Chrome Extension for Managing Your Prompts
 
