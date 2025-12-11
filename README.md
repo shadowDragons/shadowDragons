@@ -17,7 +17,7 @@
 
 - 🧩 [PromptPal](https://promptpal.tool.vin) - Google Chrome Extension for Managing Your Prompts
 
-- 🔍 [Github Seek](https://githubseek.xyz) - One-Click Search, Discover GitHub Stars
+- 🔍 [Github Seek](https://githubseek.sphrag.com) - One-Click Search, Discover GitHub Stars
 
 - 🎓 [ShipSaaS Course](https://course.shipsaas.xyz) - ShipSaaS Online Course Platform
 
