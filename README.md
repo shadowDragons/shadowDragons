@@ -9,7 +9,7 @@
 
 - 🔍 [n8n Workflow Directory](https://n8n.sphrag.com) - Discover, share, and download powerful n8n workflows created by the community. Automate your business processes with proven solutions.
 
-- 📸 [oneshotai](https://oneshotai.tool.vin) - AI-powered photo analysis tool, instant answers with one shot
+- 📸 [oneshotai](https://oneshotai.sphrag.com) - AI-powered photo analysis tool, instant answers with one shot
 
 - 🎨 [Rapidle](https://github.com/shadowDragons/rapidle) - 一个简约的桌面效率工具，支持记忆片段、快速访问链接、第三方 API 请求和快速启动系统应用。
 
