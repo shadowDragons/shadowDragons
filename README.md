@@ -15,7 +15,7 @@
 
 - 🔦 [NextIdea](https://idea.sphrag.com) - Discover your next independent development project idea.
 
-- 🧩 [PromptPal](https://promptpal.tool.vin) - Google Chrome Extension for Managing Your Prompts
+- 🧩 [PromptPal](https://promptpal.sphrag.com) - Google Chrome Extension for Managing Your Prompts
 
 - 🔍 [Github Seek](https://githubseek.sphrag.com) - One-Click Search, Discover GitHub Stars
 
